@@ -19,5 +19,5 @@ if (i.requestFullscreen) {
 
 $('#newnote').on('click', function(event){
 setHtmlCode("");
-autosave();
+autoSave();
 });
